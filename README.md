@@ -1,8 +1,8 @@
 ## tecnologia-assistiva
 
-Este é meu projeto de TCC que foi realizado no ano de 2018 durante meu Ensino Médio concomitante com o Técnico de Informática, na instituição CEMEP - Paulínia.
-O foco foi desenvolver um protótipo de **teclado assistivo** simples e melhorado para todos os mudos ou afônicos. Foi implementado também diversas aplicações que foram ensinadas durante o técnico como abrir calendário, calculadora, windows explorer e editor de texto, a fim de colocar os aprendizados em prática.
-- Nota Final: 9.0
+This is my Completion of Course Work (TCC) project that was carried out in 2018 during my high school education concurrently with the IT Technician, at the institution CEMEP - Paulínia.
+The focus was to develop a prototype of a simple and improved **assistive keyboard** for all mutes or voiceless users. Several applications were also implemented that were taught during the technician, such as opening a calendar, calculator, Windows Explorer and text editor, in order to put the learning into practice.
+- Final Grade: 9.0
 
   <p align="center">
     <img src="https://github.com/rharcosta/tecnologia-assistiva/blob/main/Imagens/TecladoAssistivo.png" />
